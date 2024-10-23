@@ -5,6 +5,7 @@ Included pdf file presents data distributions across each driving parameter, key
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Thought process](#thought-process)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -31,7 +32,7 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilize this knowledge for its portfolio and risk assessment.
 
-# Thought process of analysis
+## Thought process
 - We tried to find out how many loans tend to get charged off.
 - We checked distributions of loan amount, interest rates, annual income for all loans.
 - We checked loan status proportions for each category across various purposes, home ownership categories, loan terms, grades, subgrades, employment lengths and address states 
@@ -55,5 +56,5 @@ We sincerly thank to Upgrad team, IITB Professors and SMEs who guided us timely 
 
 
 ## Contact
-Created by @sudhirswani
+Created by [Sudhir Wani](https://github.com/sudhirswani)
 
